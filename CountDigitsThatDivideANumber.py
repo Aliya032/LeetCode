@@ -1,5 +1,6 @@
 # 11-11-23
 # https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/
+# https://www.geeksforgeeks.org/find-count-digit-number-divide-number/
 
 
 class Solution: 
